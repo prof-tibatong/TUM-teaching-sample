@@ -1,0 +1,27 @@
+name: TUM-teaching-sample
+
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python=3.7
+  - statsmodels
+  - jupyterlab
+  - matplotlib
+  - pandas
+  - seaborn
+  - numpy
+  - pytest
+  - pytest-flake8
+  - scipy
+  - black
+  - flake8
+  - pip
+  - pip:
+    - pytest-black
+    - flake8-nb
+    - black-nb
+    - nb_black
+    - pre-commit
+  
