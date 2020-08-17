@@ -6,8 +6,7 @@
 
 We explore different strategies to deal with selection bias. We first review the potential outcome model as it provides a useful framework to discuss issues such as individual selection based on heterogeneous treatment effects. We then distinguish selection on observables and unobservables before considering alternative estimation in their respective settings. Throughout, we use a [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest) to explore selected issues in a series of computational experiments.
 
-The core lecture is available [here](lecture.ipynb).
-
+The current version of the lecture is available here: [![nbviewer](https://img.shields.io/badge/jupyter_notebooks-nbviewer-purple.svg?style=flat-square)](https://nbviewer.jupyter.org/github/prof-tibatong/TUM-teaching-sample/blob/master/lecture.ipynb)
 
 ### Supported by
 
