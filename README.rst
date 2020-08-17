@@ -22,8 +22,6 @@ We explore different strategies to deal with selection bias. We first establish 
 
 Throughout we use a `Jupyter Notebook  <https://jupyter.readthedocs.io/en/latest/>`_ to explore selected issues in a series of computational experiments.
 
-|
-
 Supported by
 ------------
 
