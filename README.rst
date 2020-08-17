@@ -18,9 +18,7 @@
 
 |
 
-We explore different strategies to deal with selection bias. We first establish the potential outcome model as it provides a useful framework to discuss issues such as individual selection based on heterogeneous treatment effects. We then distinguish selection based on observables and unobservables before discussion estimation in their respective settings.
-
-Throughout we use a `Jupyter Notebook  <https://jupyter.readthedocs.io/en/latest/>`_ to explore selected issues in a series of computational experiments.
+We explore different strategies to deal with selection bias. We first establish the potential outcome model as it provides a useful framework to discuss issues such as individual selection based on heterogeneous treatment effects. We then distinguish selection based on observables and unobservables before discussion estimation in their respective settings. Throughout we use a `Jupyter Notebook  <https://jupyter.readthedocs.io/en/latest/>`_ to explore selected issues in a series of computational experiments.
 
 Supported by
 ------------
