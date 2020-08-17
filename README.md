@@ -9,5 +9,6 @@ We explore different strategies to deal with selection bias. We first establish 
 The core lecture is available [here](lecture.ipynb).
 
 
+### Supported by
 
 <img src="https://raw.githubusercontent.com/OpenSourceEconomics/ose-corporate-design/master/logos/OSE_logo_RGB.svg" width="22%"/>
